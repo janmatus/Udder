@@ -13,6 +13,8 @@
 		882CD89C255043CC00FA0BAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 882CD89A255043CC00FA0BAD /* Main.storyboard */; };
 		882CD89E255043CD00FA0BAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 882CD89D255043CD00FA0BAD /* Assets.xcassets */; };
 		882CD8A1255043CD00FA0BAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 882CD89F255043CD00FA0BAD /* LaunchScreen.storyboard */; };
+		882CD8AA2550452100FA0BAD /* milk@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 882CD8A92550452100FA0BAD /* milk@3x.png */; };
+		882CD8AD2550452F00FA0BAD /* cow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 882CD8AC2550452F00FA0BAD /* cow@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		882CD89D255043CD00FA0BAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		882CD8A0255043CD00FA0BAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		882CD8A2255043CD00FA0BAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		882CD8A92550452100FA0BAD /* milk@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "milk@3x.png"; sourceTree = "<group>"; };
+		882CD8AC2550452F00FA0BAD /* cow@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cow@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				882CD89D255043CD00FA0BAD /* Assets.xcassets */,
 				882CD89F255043CD00FA0BAD /* LaunchScreen.storyboard */,
 				882CD8A2255043CD00FA0BAD /* Info.plist */,
+				882CD8A92550452100FA0BAD /* milk@3x.png */,
+				882CD8AC2550452F00FA0BAD /* cow@3x.png */,
 			);
 			path = Udder;
 			sourceTree = "<group>";
@@ -126,7 +132,9 @@
 			files = (
 				882CD8A1255043CD00FA0BAD /* LaunchScreen.storyboard in Resources */,
 				882CD89E255043CD00FA0BAD /* Assets.xcassets in Resources */,
+				882CD8AA2550452100FA0BAD /* milk@3x.png in Resources */,
 				882CD89C255043CC00FA0BAD /* Main.storyboard in Resources */,
+				882CD8AD2550452F00FA0BAD /* cow@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
